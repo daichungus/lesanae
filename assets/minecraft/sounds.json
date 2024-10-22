@@ -12,7 +12,7 @@
     "sounds": [
       "custom/player_death/pichuun"
     ],
-	  "replace": true,
-	  "subtitle": "Touhou death sound effect"
+    "replace": true,
+    "subtitle": "Touhou death sound effect"
   }
 }
