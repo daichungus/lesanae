@@ -5,7 +5,7 @@
       "mob/wither/spawn"
     ],
     "replace": true,
-    "subtitle": "☢ CAUTION!! ☢"
+    "subtitle": "CAUTION"
   },
 
   "entity.player.death": {
