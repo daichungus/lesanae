@@ -1,0 +1,18 @@
+{
+  "entity.wither": {
+    "category": "hostile",
+    "sounds": [
+      "mob/wither/spawn"
+    ],
+    "replace": true,
+    "subtitle": "☢ CAUTION!! ☢"
+  },
+
+  "entity.player.death": {
+    "sounds": [
+      "custom/player_death/pichuun"
+    ],
+	  "replace": true,
+	  "subtitle": "Touhou death sound effect"
+  }
+}
