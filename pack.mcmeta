@@ -1,7 +1,10 @@
 {
-  "pack": {
-    "description": "Cursed 2hu-themed textures",
-    "pack_format": 46,
-    "supported_formats": [22, 46]
-  }
+	"pack": {
+		"description": "Cursed 2hu-themed textures",
+		"pack_format": 26,
+		"supported_formats": {
+			"min_inclusive": 26,
+			"max_exclusive": 99
+		}
+	}
 }
